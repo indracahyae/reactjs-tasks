@@ -13,7 +13,7 @@ understanding basic flow of reactjs class components using typescript, nextjs, b
 - Bulma = css framework
 - FontAwesome = icon library
 
-## Project Menu
+## Features
 - Tasks: Create, Read, Update, Delete, Done, Favourite
 - Done: Read, Restore to Tasks, Delete, Fovourite
 - Favourite: Read, delete
@@ -25,4 +25,4 @@ understanding basic flow of reactjs class components using typescript, nextjs, b
 - ready to run project (suitable with your local server)
 
 ## Authors
-[@indracahyae](https://www.github.com/indracahyae)
+[@indraxyz](https://www.github.com/indraxyz)
